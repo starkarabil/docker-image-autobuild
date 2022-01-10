@@ -1,2 +1,2 @@
 # docker-image-autobuild
-docker image automated build
+docker image automated build and push
