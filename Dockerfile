@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-CMD echo "Hello Mr Sende KARABIL"
+CMD echo "Hello Mr Star KARABIL"
