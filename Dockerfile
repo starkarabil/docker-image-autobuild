@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 
-CMD echo "Hello Mr S Miro A KARABIL"
+CMD echo "Diese Datei wurde nur für Meeting als Beispiel erstellt"
